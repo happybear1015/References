@@ -1,3 +1,9 @@
+24. 参考书籍合集
+
+时间：2016 - 2019持续
+https://github.com/computing-intelligence/References
+介绍：该项目包含了人工智能与机器学习、自然语言处理、自动机原理、算法与计算复杂性、数据挖掘、信息检索、数学、编程原理等多个领域的经典书籍。均为英文电子版。
+
 # References of Learning AI
 
 *reference* is a collection for Natural Language Processing(NLP) learning, which includs following topics:
